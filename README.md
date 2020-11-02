@@ -1,2 +1,2 @@
 # Arduino
-for arduino 
+아듀이노 
